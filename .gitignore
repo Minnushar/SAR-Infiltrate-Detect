@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Python / notebook temporary files
+.ipynb_checkpoints/
+
+# Generated outputs
+outputs/
+
+# Large/local datasets
+data/
+
+# Local model files
+models/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
